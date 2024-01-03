@@ -17,5 +17,11 @@
 
 # 3. 분석흐름 
 
+![image](https://github.com/hinagumena/Risk_Management_Insight/assets/115136010/589ed239-406e-4054-9295-c6b83ee8c8e2)
+
+① 이상치 탐지와 개화시기 회귀 모형을 적합 
+
+② 실제 데이터와 생성 데이터를 바탕으로 평균 이상 저온 발생횟수를 추정
+
 
 
